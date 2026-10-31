@@ -26,45 +26,7 @@ Full-Stack Development · MERN Stack · TypeScript · Backend Architecture
 
 <!-- =============== PROJECTS  ============== -->
 ## 03 / Projects
-
-<div>
-  <sub><strong>PROJECT 01 · PERSONAL FINANCE</strong></sub>
-
-  <h3>FinTrack</h3>
-
-  <p>
-    A personal finance tracker built with TypeScript, React, Express, and MongoDB.
-    It combines OTP verification and Google OAuth sign-in with a financial analytics
-    dashboard, transaction filtering, budget management, and debt tracking.
-    Recoil handles client state and Shadcn UI provides the interface.
-  </p>
-
-  <p>
-    <kbd>OTP Verification</kbd>&nbsp;
-    <kbd>Google OAuth</kbd>&nbsp;
-    <kbd>Financial Analytics</kbd>&nbsp;
-    <kbd>Transaction Filtering</kbd>&nbsp;
-    <kbd>Budget Management</kbd>&nbsp;
-    <kbd>Debt Tracking</kbd>
-  </p>
-
-  <p>
-    <img
-      src="https://skillicons.dev/icons?i=ts,react,express,mongodb&theme=dark&perline=4"
-      height="38"
-      align="absmiddle"
-      alt="TypeScript, React.js, Express.js, MongoDB"
-    />
-    &nbsp;<code>Recoil</code>&nbsp;<code>Shadcn UI</code>
-  </p>
-
-  <a href="https://github.com/om-parmar-2121/REPLACE_WITH_FINTRACK_REPO">
-    <img
-      src="https://img.shields.io/badge/VIEW_REPOSITORY-1B4D3E?style=for-the-badge&logo=github&logoColor=E6EDF3"
-      alt="View FinTrack repository"
-    />
-  </a>
-</div><table> <tr> <td valign="top"> <sub><strong>PROJECT 02 · HR MANAGEMENT</strong></sub> <h3>StaffSphere</h3> <p>A full-stack HR management system built on the MERN stack. The React frontend runs on Vite and is styled with Tailwind CSS, with application access secured through JWT authentication.</p> <p> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,tailwind&theme=dark&perline=6" height="38" align="absmiddle" alt="MongoDB, Express.js, React.js, Node.js, Vite, Tailwind CSS" /> &nbsp;<code>JWT Authentication</code> </p> <a href="https://github.com/om-parmar-2121/REPLACE_WITH_STAFFSPHERE_REPO"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F4C5C?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="View StaffSphere repository" /></a> </td> </tr> </table><table> <tr> <td valign="top"> <sub><strong>PROJECT 03 · COLLEGE PLATFORM</strong></sub> <h3>College Management System</h3> <p>A college management platform that gives administrators, faculty, and students their own dashboards, organized around role-based management.</p> <p> <kbd>Admin Dashboard</kbd>&nbsp; <kbd>Faculty Dashboard</kbd>&nbsp; <kbd>Student Dashboard</kbd>&nbsp; <kbd>Role-Based Management</kbd> </p> <a href="https://github.com/om-parmar-2121/REPLACE_WITH_COLLEGE_MANAGEMENT_REPO"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-4C8C3F?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="View College Management System repository" /></a> </td> </tr> </table>
+<table> <tr> <td valign="top"> <sub><strong>PROJECT 01 · PERSONAL FINANCE</strong></sub> <h3>FinTrack</h3> <p>A personal finance tracker built with TypeScript, React, Express, and MongoDB. It combines OTP verification and Google OAuth sign-in with a financial analytics dashboard, transaction filtering, budget management, and debt tracking. Recoil handles client state and Shadcn UI provides the interface.</p> <p> <kbd>OTP Verification</kbd>&nbsp; <kbd>Google OAuth</kbd>&nbsp; <kbd>Financial Analytics</kbd>&nbsp; <kbd>Transaction Filtering</kbd>&nbsp; <kbd>Budget Management</kbd>&nbsp; <kbd>Debt Tracking</kbd> </p> <p> <img src="https://skillicons.dev/icons?i=ts,react,express,mongodb&theme=dark&perline=4" height="38" align="absmiddle" alt="TypeScript, React.js, Express.js, MongoDB" /> &nbsp;<code>Recoil</code>&nbsp;<code>Shadcn UI</code> </p> <a href="https://github.com/om-parmar-2121/REPLACE_WITH_FINTRACK_REPO"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-1B4D3E?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="View FinTrack repository" /></a> </td> </tr> </table><table> <tr> <td valign="top"> <sub><strong>PROJECT 02 · HR MANAGEMENT</strong></sub> <h3>StaffSphere</h3> <p>A full-stack HR management system built on the MERN stack. The React frontend runs on Vite and is styled with Tailwind CSS, with application access secured through JWT authentication.</p> <p> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,tailwind&theme=dark&perline=6" height="38" align="absmiddle" alt="MongoDB, Express.js, React.js, Node.js, Vite, Tailwind CSS" /> &nbsp;<code>JWT Authentication</code> </p> <a href="https://github.com/om-parmar-2121/REPLACE_WITH_STAFFSPHERE_REPO"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F4C5C?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="View StaffSphere repository" /></a> </td> </tr> </table><table> <tr> <td valign="top"> <sub><strong>PROJECT 03 · COLLEGE PLATFORM</strong></sub> <h3>College Management System</h3> <p>A college management platform that gives administrators, faculty, and students their own dashboards, organized around role-based management.</p> <p> <kbd>Admin Dashboard</kbd>&nbsp; <kbd>Faculty Dashboard</kbd>&nbsp; <kbd>Student Dashboard</kbd>&nbsp; <kbd>Role-Based Management</kbd> </p> <a href="https://github.com/om-parmar-2121/REPLACE_WITH_COLLEGE_MANAGEMENT_REPO"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-4C8C3F?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="View College Management System repository" /></a> </td> </tr> </table>
 
 
 
